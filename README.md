@@ -5,31 +5,32 @@
 ## 🌟 Features
 
 - **Landing/Home Page**
+
   - Hero slider
   - Promotional offer bar
   - New Arrivals & Most Wanted sections
   - Popular brand showcase
 
 - **Collections Page**
+
   - Product cards with images, titles, and prices
   - Structured grid layout
 
 - **Contact Us Page**
+
   - Form-style layout
   - Clean mobile-friendly design
 
 - **Responsive Design**
   - Fully adapts to all screen sizes (desktop, tablet, mobile)
 
-
 ## 🧰 Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Font Awesome  
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
 - Google Fonts
-
 
 ## 📁 Folder Structure
 
@@ -67,24 +68,28 @@ NOSTRA/
 │
 └── README.md # Project documentation
 
-
 ## 📸 Screenshots
 
-### Home Page  
-![Home Page](./Screenshots/Homepage.jpg)
+### Home Page
 
-### Collections Page  
-![Collections Page](./Screenshots/collections.jpg)
+![Home Page](./img/Screenshots/Homepage.jpg)
 
-### Contact Page  
-![Contact Page](./Screenshots/contact.jpg)
+### Collections Page
 
-### Responsive View  
-![Responsive View](./Screenshots/Responsiveview.jpg)
+![Collections Page](./img/Screenshots/collections.jpg)
 
+### Contact Page
+
+![Contact Page](./img/Screenshots/contact.jpg)
+
+### Responsive View
+
+![Responsive View](./img/Screenshots/Responsiveview.jpg)
 
 ### Mobile View
-![Mobile View](./Screenshots/mobileview.jpg)
+
+![Mobile View](./img/Screenshots/mobileview.jpg)
+
 ## 👩‍💻 Author
 
 **Developed by:** [Karthiga P](https://github.com/KarthigaP20)
